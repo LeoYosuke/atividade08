@@ -1,0 +1,7 @@
+D:\Users\leonardo.ykonichi\source\repos\atividade08\atividade08\bin\Debug\atividade08.exe.config
+D:\Users\leonardo.ykonichi\source\repos\atividade08\atividade08\bin\Debug\atividade08.exe
+D:\Users\leonardo.ykonichi\source\repos\atividade08\atividade08\bin\Debug\atividade08.pdb
+D:\Users\leonardo.ykonichi\source\repos\atividade08\atividade08\obj\Debug\atividade08.csproj.AssemblyReference.cache
+D:\Users\leonardo.ykonichi\source\repos\atividade08\atividade08\obj\Debug\atividade08.csproj.CoreCompileInputs.cache
+D:\Users\leonardo.ykonichi\source\repos\atividade08\atividade08\obj\Debug\atividade08.exe
+D:\Users\leonardo.ykonichi\source\repos\atividade08\atividade08\obj\Debug\atividade08.pdb
